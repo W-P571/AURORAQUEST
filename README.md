@@ -1,4 +1,3 @@
-
 # Aurora Quest
 
 _A lean Unity demo that showcases a dynamic, interactive game prototype with advanced shader effects, environmental interactions, and intuitive player controls._
@@ -36,4 +35,3 @@ This project was developed to showcase creative level design, shader programming
    ```bash
    git clone https://github.com/yourusername/AuroraQuest.git
    cd AuroraQuest
-
